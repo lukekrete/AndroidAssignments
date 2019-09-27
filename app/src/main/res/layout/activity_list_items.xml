@@ -13,9 +13,15 @@
 
     <RadioButton android:text="@string/RadioButton" />
 
-    <CheckBox android:text="@string/CheckBox" />
+    <CheckBox
+        android:id="@+id/checkbox"
+        android:text="@string/CheckBox" />
 
-    <Switch android:text="@string/Switch" />
+    <Switch
+        android:id="@+id/switchButton"
+        android:text="@string/Switch" />
 
-    <ImageButton android:src="@android:drawable/ic_menu_camera" />
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:src="@android:drawable/ic_menu_camera" />
 </GridLayout>
