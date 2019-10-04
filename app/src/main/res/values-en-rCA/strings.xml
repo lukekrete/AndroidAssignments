@@ -15,5 +15,6 @@
     <string name="cancel">Cancel</string>
     <string name="my_information"> My info I want to display</string>
     <string name="startChat"> Start Chat</string>
+    <string name="Send">Send</string>
 
 </resources>
